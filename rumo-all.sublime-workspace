@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lef",
+				"left_third"
+			],
+			[
+				"find",
+				"find_array_min"
+			],
+			[
+				"fin",
+				"find_array_min"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"flo",
+				"float_val"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"re",
+				"replace_operators"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"for",
+				"formula"
+			],
+			[
+				"pr",
+				"print_cells"
+			],
+			[
+				"fo",
+				"formula"
+			],
+			[
+				"nex",
+				"next_cell_index"
+			],
+			[
+				"col",
+				"col_index"
+			],
+			[
+				"row",
+				"row_index"
+			],
+			[
+				"ne",
+				"next_cell_key"
+			],
+			[
+				"file",
+				"file_reader"
+			],
+			[
+				"read",
+				"read_input"
+			],
+			[
+				"def",
+				"defaultdict"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: current file in Sublime Text"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lakshman1984/rumo/Hello/app/app_delegate.rb",
+		"/Users/lakshman1984/Downloads/SHA1.txt",
+		"/Users/lakshman1984/gh/iv/opti/opti1.py",
+		"/Users/lakshman1984/gh/iv/opti/test.html",
+		"/Users/lakshman1984/gh/iv/opti/opti2.py",
+		"/Users/lakshman1984/myblog/_posts/untitled-0.md",
+		"/Users/lakshman1984/myblog/_pages/archive.html",
+		"/Users/lakshman1984/myblog/_pages/about.md",
+		"/Users/lakshman1984/myblog/_pages/categories.html",
+		"/Users/lakshman1984/gh/rstblog/bootstrap.py",
+		"/Users/lakshman1984/gh/counsyl/spreadsheet.py",
+		"/Users/lakshman1984/gh/counsyl/p.py",
+		"/Users/lakshman1984/gh/counsyl/ev.py",
+		"/Users/lakshman1984/gh/counsyl/inp.txt",
+		"/Users/lakshman1984/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/lakshman1984/Downloads/backupsettings.conf",
+		"/Users/lakshman1984/gh/bootstrap/docs/examples.html",
+		"/Users/lakshman1984/gh/bootstrap/docs/download.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"f7ce99a8e5eab0336950e4380a197c34ce",
+			"a8e5eab0336950e4380a197c34ce",
+			"7ce99a8e5eab0336950e4380a197c34ce",
+			"9c43e4f7ce99a8e5eab0336950e4380a197c34ce",
+			"2",
+			"username"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
